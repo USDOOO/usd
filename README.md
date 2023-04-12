@@ -1,2 +1,2 @@
-# SOCHI
+# SOCHI частный сектор
 for www.SOCHI.OOO
