@@ -1,2 +1,2 @@
-# USD
-for www.USD.OOO
+# SOCHI
+for www.SOCHI.OOO
